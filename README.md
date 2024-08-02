@@ -10,7 +10,7 @@ On GitHub you can see all the major projects I've participated in, and on itch.i
 ### 🌱 What I'm currently learning
 I'm currently learning the Godot engine and the GDScript language, that's what I'm putting the most emphasis on. In addition, I'm constantly trying to find myself in the field of Computer Science, so I'm further educating myself in the C# language, in which I already have professional experience, and following new information from the programming world to try something new.
 
-<a href="https://app.daily.dev/rvstydev"><img src="https://api.daily.dev/devcards/v2/9gqKVOHMSHXLMZPFnnkrv.png?type=wide&r=qoc" width="450" alt="Daniel Pilich's Dev Card"/></a>
+<a href="https://app.daily.dev/rvstydev"><img src="./devcard.png" width="450" alt="Daniel Pilich's Dev Card"/></a>
 ### 📫 How to reach me
 The easiest way to contact me is through the LinkedIn platform, where you can find information about my experience by the way: 
 > Here is a link: [My LinkedIn profile](https://www.linkedin.com/in/daniel-pilich/)
