@@ -12,7 +12,7 @@ I'm currently learning the Godot engine and the GDScript language, that's what I
 
 <a href="https://app.daily.dev/rvstydev"><img src="./devcard.png" width="450" alt="Daniel Pilich's Dev Card"/></a>
 
-<a href="https://www.codewars.com/users/rvstydev"><img src="https://www.codewars.com/users/rvstydev/badges/large" width="450" alt="Daniel Pilich's Codewars Badge"/></a>
+<a href="https://www.codewars.com/users/rvstydev"><img src="https://www.codewars.com/users/rvstydev/badges/large" alt="Daniel Pilich's Codewars Badge"/></a>
 
 ### 📫 How to reach me
 The easiest way to contact me is through the LinkedIn platform, where you can find information about my experience by the way: 
